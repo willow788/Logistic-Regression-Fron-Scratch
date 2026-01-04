@@ -4,12 +4,12 @@
 This document explains the techniques and optimizations I implemented to achieve 97.90% accuracy 
 on the breast cancer classification dataset using a logistic regression model built from scratch.
 
-================================================================================
-KEY IMPROVEMENTS IMPLEMENTED
-================================================================================
+
+## KEY IMPROVEMENTS IMPLEMENTED
+
 
 1. FEATURE SCALING WITH STANDARDSCALER
-   ----------------------------------------
+
    Implementation:
    - Applied StandardScaler to normalize all features
    - Transformed features to have mean=0 and standard deviation=1
@@ -184,9 +184,9 @@ KEY IMPROVEMENTS IMPLEMENTED
    )
    ```
 
-================================================================================
-RESULTS ACHIEVED
-================================================================================
+
+## RESULTS ACHIEVED
+
 
 Final Model Performance:
 ------------------------
@@ -209,9 +209,9 @@ Training Behavior:
 - Early stopping engaged successfully
 - Stable convergence
 
-================================================================================
-COMPARISON: BASIC vs IMPROVED MODEL
-================================================================================
+
+## COMPARISON: BASIC vs IMPROVED MODEL
+
 
 Basic Logistic Regression (no optimizations):
 - Expected accuracy: ~88-92%
@@ -229,9 +229,9 @@ Breakdown of Improvements:
 - Numerical Stability: Prevents failures
 - Early Stopping: Prevents overfitting
 
-================================================================================
-TECHNICAL IMPLEMENTATION HIGHLIGHTS
-================================================================================
+
+## TECHNICAL IMPLEMENTATION HIGHLIGHTS
+
 
 1. Vectorized Operations:
    - Used NumPy matrix operations for efficiency
@@ -254,9 +254,9 @@ TECHNICAL IMPLEMENTATION HIGHLIGHTS
    - Type conversions for safety
    - Proper random seed for reproducibility
 
-================================================================================
-WHY THESE TECHNIQUES WORK TOGETHER
-================================================================================
+
+## WHY THESE TECHNIQUES WORK TOGETHER
+
 
 The 97% accuracy is achieved through synergistic effects:
 
@@ -277,9 +277,9 @@ The 97% accuracy is achieved through synergistic effects:
    - Enables use of tight tolerance values
    - Allows model to reach true optimum
 
-================================================================================
-LESSONS LEARNED
-================================================================================
+
+## LESSONS LEARNED
+
 
 1. Data preprocessing is critical
    - Never skip feature scaling for gradient-based methods
@@ -301,9 +301,9 @@ LESSONS LEARNED
    - Track loss history to diagnose issues
    - Use verbose mode during development
 
-================================================================================
-POTENTIAL FURTHER IMPROVEMENTS
-================================================================================
+
+## POTENTIAL FURTHER IMPROVEMENTS
+
 
 Could potentially reach 98-99% with:
 - Feature engineering (polynomial features, interactions)
@@ -315,9 +315,9 @@ Could potentially reach 98-99% with:
 
 However, 97.90% is already excellent for logistic regression from scratch!
 
-================================================================================
-CONCLUSION
-================================================================================
+
+## CONCLUSION
+
 
 This implementation demonstrates that a well-engineered logistic regression
 model can achieve competitive performance even compared to complex models.
@@ -332,8 +332,7 @@ Key Takeaways:
 The 97% accuracy proves that understanding fundamentals and applying
 best practices can yield production-quality results.
 
-================================================================================
 AUTHOR: willow788
 DATE: 2026-01-04
 PROJECT: Logistic Regression From Scratch - Improved Model
-================================================================================
+
