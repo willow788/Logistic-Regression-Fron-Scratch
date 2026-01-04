@@ -435,14 +435,12 @@ This project is **MIT** licensed.
 
 ### 🌟 Made with ❤️ and lots of ☕
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire. png" width="25"/> **If you found this helpful, please give it a** ⭐ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="25"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="25"/> **If you found this helpful, please give it a** ⭐ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="25"/>
 
 <br>
 
 **Happy Learning! 🚀**
 
-<br>
 
-![Visitor Count](https://profile-counter.glitch.me/willow788-logistic-regression/count.svg)
 
 </div>
