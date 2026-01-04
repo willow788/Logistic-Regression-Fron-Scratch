@@ -443,6 +443,6 @@ This project is **MIT** licensed.
 
 <br>
 
-![Visitor Count](https://profile-counter. glitch.me/willow788-logistic-regression/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/willow788-logistic-regression/count.svg)
 
 </div>
